@@ -1,0 +1,1385 @@
+{
+  "Principles of Management": [
+    {
+      "question": "Pervasiveness of planning indicates that planning is a:",
+      "options": ["Future Oriented activity", "It is the top management function", "Extends throughout the management functions", "First management function"],
+      "correctAnswer": 2,
+      "explanation": "Pervasiveness means that planning extends throughout the organization and across all managerial functions, not just limited to one level."
+    },
+    {
+      "question": "Which of the following is not a Key Result Area (KRA) for a business organisation?",
+      "options": ["Market standing", "Productivity", "Organizational structure", "Profitability"],
+      "correctAnswer": 2,
+      "explanation": "KRAs are measurable outcomes like market standing, productivity, and profitability; 'organizational structure' is an internal design element, not a KRA."
+    },
+    {
+      "question": "Who coined the term 'Management by Objectives' (MBO)?",
+      "options": ["Herbert Simon", "John Mee", "Peter Drucker", "Koontz"],
+      "correctAnswer": 2,
+      "explanation": "Peter Drucker introduced the term MBO in his 1954 book 'The Practice of Management'."
+    },
+    {
+      "question": "The term 'Management by Objectives (MBO)' was coined in the year:",
+      "options": ["1913", "1964", "1954", "1962"],
+      "correctAnswer": 2,
+      "explanation": "Peter Drucker coined the term in 1954 in his book 'The Practice of Management'."
+    },
+    {
+      "question": "Which technique is used when a decision is complex and the outcome of a later situation depends on the outcome of the former decision?",
+      "options": ["Game Theory", "Linear Programming", "Decision Tree", "Waiting Line Model"],
+      "correctAnswer": 2,
+      "explanation": "A decision tree helps map possible outcomes in sequence where each decision’s outcome affects the next."
+    },
+    {
+      "question": "As a person moves upward, which nature of skill loses its application in a relative manner as per Robert Katz's Management Skills approach?",
+      "options": ["Conceptual skill", "Decision-making skill", "Technical Skill", "Interpersonal skill"],
+      "correctAnswer": 2,
+      "explanation": "Technical skills are more needed at lower levels of management; higher levels require more conceptual and human skills."
+    },
+    {
+      "question": "The process of grouping organisational activities is known as:",
+      "options": ["Allocation of responsibility", "Span of Management", "Departmentation", "Reporting System"],
+      "correctAnswer": 2,
+      "explanation": "Departmentation is the grouping of related tasks into manageable units to achieve objectives."
+    },
+    {
+      "question": "Which technique attempts to bring balance between 'Cost of Idle Time' and 'Cost of Waiting Line'?",
+      "options": ["Decision Tree", "PERT", "Queuing Theory", "LPP"],
+      "correctAnswer": 2,
+      "explanation": "Queuing theory studies waiting lines to minimize both idle time costs and waiting time costs."
+    },
+    {
+      "question": "Which among the following leadership approaches was applied for the first time in the German armed forces?",
+      "options": ["Situational Theory Approach", "Trait Theory Approach", "Behavioural Theory Approach", "Charismatic Theory Approach"],
+      "correctAnswer": 1,
+      "explanation": "Trait theory, focusing on inherent qualities, was first applied in leadership contexts like the German armed forces."
+    },
+    {
+      "question": "In the context of Herzberg's Two Factor Theory, which is incorrect?",
+      "options": ["Need motivators can prevent satisfaction", "Salary and monetary rewards are hygiene factors", "Presence of hygiene factors cannot ensure satisfaction", "Job enrichment can be a need motivator"],
+      "correctAnswer": 0,
+      "explanation": "In Herzberg's theory, motivators lead to satisfaction, while hygiene factors prevent dissatisfaction; the statement that 'Need motivators can prevent satisfaction' is incorrect."
+    },
+    {
+      "question": "Which leadership approach gives due consideration to subordinates' characteristics for successful leadership?",
+      "options": ["Situational Theory Approach", "Charismatic Theory Approach", "Behavioural Theory Approach", "Trait Theory Approach"],
+      "correctAnswer": 0,
+      "explanation": "Situational theory considers the characteristics of subordinates and the situation when determining effective leadership style."
+    },
+    {
+      "question": "Who advocated for efficiency-oriented concepts for management?",
+      "options": ["F.W. Taylor", "Henry Fayol", "Peter Drucker", "Koontz"],
+      "correctAnswer": 0,
+      "explanation": "F.W. Taylor is known as the father of Scientific Management and focused on efficiency in management processes."
+    },
+    {
+      "question": "Tactical planning is also known as:",
+      "options": ["Operational planning", "Corporate planning", "Strategic planning", "Proactive planning"],
+      "correctAnswer": 0,
+      "explanation": "Tactical planning translates strategic plans into specific, short-term actions; it is often referred to as operational planning."
+    },
+    {
+      "question": "Contribution on Management Skill is made by:",
+      "options": ["Robert Katz", "Peter Drucker", "Mintzberg", "Robbins"],
+      "correctAnswer": 0,
+      "explanation": "Robert Katz identified three essential management skills: technical, human, and conceptual."
+    },
+    {
+      "question": "Which of the following elements is not included in the organising process?",
+      "options": ["Appraisal of subordinates", "Delegation of Authority", "Fixing of responsibilities", "Departmentation"],
+      "correctAnswer": 0,
+      "explanation": "Appraisal of subordinates is part of performance management, not the organising process."
+    },
+    {
+      "question": "Which of the following responsibilities is incorrect according to Herzberg’s Two Factor Theory?",
+      "options": ["Hygiene Factors can prevent Dissatisfaction", "Possibility of growth can motivate people", "Motivational Factors can lead to satisfaction", "Hygiene Factors can lead to satisfaction"],
+      "correctAnswer": 3,
+      "explanation": "Hygiene factors prevent dissatisfaction but do not create satisfaction; satisfaction comes from motivators."
+    },
+    {
+      "question": "Which need covers personal growth, advancement, power, and position as per Abraham Maslow's Need Hierarchy?",
+      "options": ["Self-actualisation Need", "Social Need", "Physiological Need", "Esteem Need"],
+      "correctAnswer": 3,
+      "explanation": "Esteem needs involve recognition, status, power, and personal growth."
+    },
+    {
+      "question": "In the context of 'Authority' and 'Power', which statement is incorrect?",
+      "options": ["Authority can never be illegitimate", "Power is wider in scope than authority", "Power may not necessarily always be legitimate", "Authority is wider in scope than power"],
+      "correctAnswer": 3,
+      "explanation": "Authority is a narrower concept than power; power can exist without legitimacy."
+    },
+    {
+      "question": "Which theory is also known as 'Great Man Theory'?",
+      "options": ["Contingency Theory", "Trait Theory", "Behavioural Theory", "Charismatic Theory"],
+      "correctAnswer": 1,
+      "explanation": "The Great Man Theory, or Trait Theory, suggests leaders are born with inherent qualities."
+    },
+    {
+      "question": "Relationship among authority, responsibility, accountability, and reporting system is:",
+      "options": ["Organisational chart", "Delegation of authority", "Span Management", "Organisation Theory"],
+      "correctAnswer": 1,
+      "explanation": "Delegation of authority involves transferring authority and responsibility along with accountability and reporting systems."
+    },
+    {
+      "question": "Which combination of functions in management process is known as complementary nature of functions?",
+      "options": ["Staffing and Directing", "Organising and Directing", "Planning and Coordinating", "Planning and Controlling"],
+      "correctAnswer": 3,
+      "explanation": "Planning and controlling are interrelated; control ensures plans are implemented and planning provides standards for control."
+    },
+    {
+      "question": "Which is not one of the roles described under Mintzberg's 'Role Approach'?",
+      "options": ["Spokesperson", "Monitor", "Speculator", "Leader"],
+      "correctAnswer": 2,
+      "explanation": "Mintzberg's managerial roles do not include 'Speculator'; the actual roles are interpersonal, informational, and decisional."
+    },
+    {
+      "question": "Who contributed the concept of 'Managerial Roles'?",
+      "options": ["Henry Fayol", "Robert Katz", "F.W. Taylor", "Mintzberg"],
+      "correctAnswer": 3,
+      "explanation": "Henry Mintzberg developed the concept of managerial roles, categorising them into three main groups."
+    },
+    {
+      "question": "Which is not a principle of Henry Fayol's 'Administrative Management'?",
+      "options": ["Unity of command", "Scalar Chain", "Equity", "Standardisation"],
+      "correctAnswer": 3,
+      "explanation": "Standardisation is part of scientific management, not one of Fayol's 14 principles."
+    },
+    {
+      "question": "Which of the following does not belong to F.W. Taylor's Scientific Management?",
+      "options": ["Specialization", "Discipline", "Standardization", "Financial incentives"],
+      "correctAnswer": 1,
+      "explanation": "Discipline is a principle of Fayol, whereas the others belong to Taylor's scientific management."
+    },
+    {
+      "question": "Legitimate right to decide about others' course of actions and behaviour is known as:",
+      "options": ["Zone of indifference", "Authority", "Accountability", "Power"],
+      "correctAnswer": 1,
+      "explanation": "Authority is the legitimate right to give orders and expect them to be obeyed."
+    },
+    {
+      "question": "Which is the correct sequence of Abraham Maslow's Need hierarchy?",
+      "options": ["Physiological - self Actualization - safety - esteem - social", "Physiological - Safety - Social - Esteem - Self Actualisation", "Safety – Esteem – Social – Physiological – Self", "Safety – Social – Physiological – Esteem – Self Actualisation"],
+      "correctAnswer": 1,
+      "explanation": "Maslow's hierarchy starts with physiological needs, followed by safety, social, esteem, and self-actualisation."
+    },
+    {
+      "question": "Relatively enduring quality of an individual is known as:",
+      "options": ["Behaviour", "Trait", "Charisma", "Skill"],
+      "correctAnswer": 1,
+      "explanation": "A trait is a consistent, enduring quality or characteristic of an individual."
+    },
+    {
+      "question": "Which is not a significant element of Transactional Model of Communication?",
+      "options": ["Channel of Communication", "Rumours", "Decoding", "Encoding"],
+      "correctAnswer": 1,
+      "explanation": "Rumours are not part of the communication model; they are a form of informal, often unreliable, information."
+    },
+    {
+      "question": "___ are the fundamental truth that establishes cause and effect relationship of a function.",
+      "options": ["Objectives", "Principles", "Rules", "Functions"],
+      "correctAnswer": 1,
+      "explanation": "Principles are fundamental truths that establish cause-and-effect relationships in management functions."
+    },
+    {
+      "question": "Who has called 'Management' as 'Personnel Management' and defined it as 'the accomplishment of results through the efforts of other people'?",
+      "options": ["Stanley Vance", "Lawrence Appley", "Koontz O'Donnell", "McFarland"],
+      "correctAnswer": 1,
+      "explanation": "Lawrence Appley described management as achieving results through the efforts of others, referring to it as personnel management."
+    },
+    {
+      "question": "___ is based on logical consistency, systematic explanation, critical evaluation and experimental analysis.",
+      "options": ["Art", "Science", "Commerce", "Literature"],
+      "correctAnswer": 1,
+      "explanation": "Science relies on logical consistency, systematic explanation, and experimental verification."
+    },
+    {
+      "question": "___ is concerned with understanding how a particular work can be accomplished and also involves applying knowledge or expertness in performance.",
+      "options": ["Science", "Art", "Profession", "Both Science and Art"],
+      "correctAnswer": 3,
+      "explanation": "Management is both a science (systematic knowledge) and an art (application of skill in practice)."
+    },
+    {
+      "question": "Which among the following characteristics of a profession is a must to become an effective and efficient manager in an organisation?",
+      "options": ["Acquisition of knowledge", "Existence of knowledge", "Professional Association", "Ethical code of conduct"],
+      "correctAnswer": 0,
+      "explanation": "Acquisition of knowledge is essential for a manager to be effective and efficient."
+    },
+    {
+      "question": "Who has identified the three types of skills required for all managers in managing the organisation properly?",
+      "options": ["Robert Owen", "Robert L. Katz", "Henry Fayol", "F.W. Taylor"],
+      "correctAnswer": 1,
+      "explanation": "Robert L. Katz identified technical, human, and conceptual skills as essential for managers."
+    },
+    {
+      "question": "According to 'Functional Foremanship', the speed boss, inspector and gang boss are entrusted with the ___ aspects of work.",
+      "options": ["Planning", "Production", "Decision Making", "Controlling"],
+      "correctAnswer": 1,
+      "explanation": "In functional foremanship, roles like speed boss, inspector, and gang boss focus on production aspects."
+    },
+    {
+      "question": "Which among the following is the first step of planning?",
+      "options": ["Establishing Objectives", "Perception of opportunities", "Identification of alternatives", "Choice of alternatives"],
+      "correctAnswer": 1,
+      "explanation": "The planning process starts with perceiving opportunities before setting objectives."
+    },
+    {
+      "question": "The principle of 'Unity of command' is contrary to Taylor's:",
+      "options": ["Job analysis", "Functional incentives", "Functional foremanship", "Maximum output"],
+      "correctAnswer": 2,
+      "explanation": "Unity of command means one boss per employee, whereas functional foremanship involves multiple supervisors."
+    },
+    {
+      "question": "___ approach of Management is heavily concentrated on 'People' aspect of management.",
+      "options": ["Contingency", "Decision theory", "Human Relations", "Social system"],
+      "correctAnswer": 2,
+      "explanation": "The human relations approach emphasises the importance of people in the workplace and interpersonal relations."
+    },
+    {
+      "question": "The main objective of ___ study is to determine and eliminate unnecessary and wasteful movements.",
+      "options": ["Time study", "Fatigue study", "Motion study", "Method study"],
+      "correctAnswer": 2,
+      "explanation": "Motion study aims to improve efficiency by eliminating unnecessary movements."
+    },
+    {
+      "question": "'General Management' skills are also known as ___ Skills.",
+      "options": ["Technical", "Human Relations", "Conceptual", "Empirical"],
+      "correctAnswer": 2,
+      "explanation": "Conceptual skills are often referred to as general management skills, involving the ability to see the organisation as a whole."
+    },
+    {
+      "question": "Which among the following statement is correct?",
+      "options": [
+        "Programmed decisions are known as strategic decisions.",
+        "Conceptual skills are required to take non-programmed decisions.",
+        "Only internal environment is analysed to take non-programmed decision.",
+        "Identify the correct statement from the statement given below:"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Non-programmed decisions are unique and require conceptual skills to address complex and unstructured problems."
+    },
+    {
+      "question": "Identify the correct statement from the statement given below:",
+      "options": [
+        "Technical skill deals with ideas, human skill deals with people and conceptual skill deals with things.",
+        "Technical skill deals with ideas, human skill deals with people and conceptual skill deals with things.",
+        "Conceptual skill deals with ideas, human skill deals with people and technical skill deals with things.",
+        "Technical skill deals with ideas, conceptual skill deals with people and human skill deals with things."
+      ],
+      "correctAnswer": 2,
+      "explanation": "Conceptual skills involve dealing with ideas, human skills with people, and technical skills with specific tasks or things."
+    },
+    {
+      "question": "'KRA' in MBO stands for ___",
+      "options": ["Key Resource Areas", "Key Result Areas", "Key Resource Activity", "Key Result Activity"],
+      "correctAnswer": 1,
+      "explanation": "KRA stands for Key Result Areas, representing critical areas where results must be achieved."
+    },
+    {
+      "question": "___ is the right of a superior to give orders to subordinates and get these orders obeyed.",
+      "options": ["Authority", "Accountability", "Responsibility", "Reliability"],
+      "correctAnswer": 0,
+      "explanation": "Authority is the legitimate right to issue orders and expect compliance."
+    },
+    {
+      "question": "Authority and Responsibility are ___ to each other.",
+      "options": ["Complementary", "Conflicting", "Supplementary", "Contrary"],
+      "correctAnswer": 0,
+      "explanation": "Authority and responsibility must go hand in hand; authority without responsibility or vice versa is ineffective."
+    },
+    {
+      "question": "Who has developed 'Need Hierarchy Theory' to explain Human Behaviour in an Organisation?",
+      "options": ["Abraham Maslow", "Douglas McGregor", "Rensis Likert", "Herzberg"],
+      "correctAnswer": 0,
+      "explanation": "Abraham Maslow developed the Need Hierarchy Theory, outlining five levels of human needs."
+    },
+    {
+      "question": "'Motivation-Hygiene theory' was developed by ___",
+      "options": ["Herzberg", "McGregor", "Likert", "Maslow"],
+      "correctAnswer": 0,
+      "explanation": "Frederick Herzberg proposed the Motivation-Hygiene Theory, distinguishing between factors that cause satisfaction and dissatisfaction."
+    },
+    {
+      "question": "___ theory says that leadership qualities are not completely inborn, but can also be acquired through learning and experience.",
+      "options": ["Trait", "Charismatic", "Behavioural", "Situational"],
+      "correctAnswer": 2,
+      "explanation": "The behavioural theory suggests leadership skills can be learned and are not solely innate."
+    },
+    {
+      "question": "Which Organisational structure is known as Scalar, Military or Vertical Organisation structure?",
+      "options": ["Line", "Line and Staff", "Functional", "Divisional"],
+      "correctAnswer": 0,
+      "explanation": "The line organisational structure is also referred to as scalar, military, or vertical structure."
+    },
+    {
+      "question": "Which among the following is not the demerit of Line Organisational Structure?",
+      "options": ["Specialisation of activities", "Lack of conceptual thinking", "Autocratic approach", "Problem in co-ordination"],
+      "correctAnswer": 0,
+      "explanation": "Specialisation of activities is actually a merit of certain organisational structures, not a demerit of line organisation."
+    },
+    {
+      "question": "According to Trait theory of Leadership, which among the following comes under innate qualities?",
+      "options": ["Intelligence", "Emotional stability", "Empathy", "Objectivity"],
+      "correctAnswer": 0,
+      "explanation": "Trait theory states that certain qualities like intelligence are inborn and contribute to effective leadership."
+    },
+    {
+      "question": "Inability to accept subordinate's ideas, display emotional immaturity and poor human relations are the examples of behaviour.",
+      "options": ["Dysfunctional", "Effective", "Serviceable", "Functional"],
+      "correctAnswer": 0,
+      "explanation": "Such behaviours are considered dysfunctional as they hinder effective management and teamwork."
+    },
+    {
+      "question": "___ organisational structure can result into high degree of specialization as one unit or department is concerned with only one aspect of total activities.",
+      "options": ["Line", "Matrix", "Divisional", "Functional"],
+      "correctAnswer": 3,
+      "explanation": "In a functional structure, departments focus on a single aspect of organisational activities, leading to specialisation."
+    },
+    {
+      "question": "Which among the following is the main disadvantage of functional structure?",
+      "options": ["Promotes professional growth", "High degree of specialization", "Brings order and clarity in organisation", "Responsibility cannot be fixed"],
+      "correctAnswer": 3,
+      "explanation": "In functional structures, fixing responsibility can be difficult as work may require coordination across departments."
+    },
+    {
+      "question": "Legitimate right to decide about others' course of actions and behaviour is known as:",
+      "options": ["Zone of indifference", "Power", "Accountability", "Authority"],
+      "correctAnswer": 3,
+      "explanation": "Authority refers to the legitimate right to make decisions and expect compliance."
+    },
+    {
+      "question": "___ need is the base of the need hierarchy because they tend to have the highest strength until they are reasonably satisfied individual cannot move next higher level in hierarchy.",
+      "options": ["Security", "Social", "Esteem", "Physiological"],
+      "correctAnswer": 3,
+      "explanation": "Physiological needs are the foundation in Maslow's hierarchy as they are essential for survival."
+    },
+    {
+      "question": "According to Herzberg, which among the following comes under the Hygiene factors?",
+      "options": ["Work itself", "Possibility of growth", "Responsibility", "Salary"],
+      "correctAnswer": 3,
+      "explanation": "Salary is a hygiene factor; it prevents dissatisfaction but does not create satisfaction."
+    },
+    {
+      "question": "Which approach to leadership is quite popular between 1930 and 1950?",
+      "options": ["Charismatic Theory", "Situational Theory", "Behavioural Theory", "Trait Theory"],
+      "correctAnswer": 3,
+      "explanation": "Trait theory was the dominant approach to leadership during this period."
+    }
+  ]
+  ,
+  "Human Resources Management": [
+    {
+      "question": "Considering the factor affecting recruitment, which one of the following given alternative is not a part of internal factors.",
+      "options": ["Socio economic factors", "Companies' growth rate", "Companies pay package", "Role of trade unions"],
+      "correctAnswer": 0,
+      "explanation": "Internal factors relate to organizational aspects; socio-economic factors are external influences."
+    },
+    {
+      "question": "The personal manager acts as a ______ in case of friction between two employees, group of employees, superiors, subordinate and employees and as a sole objective maintaining industrial harmony.",
+      "options": ["Coordinator", "Employees champion", "Mediator", "Trainer"],
+      "correctAnswer": 2,
+      "explanation": "In conflict resolution, the personnel manager mediates to maintain harmony."
+    },
+    {
+      "question": "______ decisions are taken by line manager after matching the requirement of a job with the qualification of candidates.",
+      "options": ["Induction", "Placement", "Orientation", "Recruitment"],
+      "correctAnswer": 1,
+      "explanation": "Placement matches the candidate's qualifications to job requirements."
+    },
+    {
+      "question": "______ is also considered as an extended work sample. It incorporates individual and group exercises designed to simulate the types of work which the candidate will be expected to do.",
+      "options": ["Assessment Centre", "Simulation Test", "Orientation", "Placement"],
+      "correctAnswer": 0,
+      "explanation": "An assessment centre evaluates candidates using simulations of actual job tasks."
+    },
+    {
+      "question": "______ is an integrated system designed to improve the efficiency with which HR data is compiled and makes HR records more useful to the management by serving as a source of information.",
+      "options": ["Human resource audit", "Human resource information system", "Human resource accounting", "Human resource research"],
+      "correctAnswer": 1,
+      "explanation": "HRIS improves HR data management and accessibility."
+    },
+    {
+      "question": "Organising tasks and responsibilities towards having the productive line and staff function unit of the work is called ______.",
+      "options": ["Horizontal mobility", "Job design", "Job enrichment", "Job rotation"],
+      "correctAnswer": 1,
+      "explanation": "Job design structures tasks and responsibilities for productivity."
+    },
+    {
+      "question": "Professional organisations search for the most suitable candidate and advise the company regarding filling up the position. Head Hunters are also called ______.",
+      "options": ["Search consultant", "Private Agent", "Professional hunter", "Body Shoppers"],
+      "correctAnswer": 0,
+      "explanation": "Search consultants or headhunters specialise in finding top candidates."
+    },
+    {
+      "question": "Which among the following is the internal factor that affects recruitment?",
+      "options": ["Socio-economic factor", "Organisational culture", "Supply and demand factors", "Employment rate"],
+      "correctAnswer": 1,
+      "explanation": "Organisational culture influences internal recruitment practices."
+    },
+    {
+      "question": "______ level employment opportunities multiply and scarce talents are put to best use.",
+      "options": ["The enterprise", "The individual", "The society", "The national"],
+      "correctAnswer": 2,
+      "explanation": "At the societal level, employment opportunities benefit the economy and utilise talent."
+    },
+    {
+      "question": "______ is the systematic process for gathering, documenting and analysing data about the work required for a job.",
+      "options": ["Job description", "Job evaluation", "Job specification", "Job analysis"],
+      "correctAnswer": 3,
+      "explanation": "Job analysis collects and analyses job-related information."
+    },
+  {
+    "question": "Which one of the given alternative is not a part of '3P's' of Human Resource Management?",
+    "options": ["Profit", "Performance", "People", "Processes"],
+    "correctAnswer": 0,
+    "explanation": "The '3P's' in HRM typically refer to People, Processes, and Performance; Profit is an outcome, not a core HR component."
+  },
+  {
+    "question": "Organisations advertise the vacancies through the world wide web. The internet can also be called as ______.",
+    "options": ["Walk in", "Consulting", "E-recruitment", "Business alliances"],
+    "correctAnswer": 2,
+    "explanation": "E-recruitment refers to the use of internet platforms to advertise job vacancies and receive applications."
+  },
+  {
+    "question": "The process of familiarizing the new employee to the organisation rules and regulations is known as ______.",
+    "options": ["Placement", "Recruitment", "Induction", "Selection"],
+    "correctAnswer": 2,
+    "explanation": "Induction helps new employees adapt to the organisation’s policies, rules, and work culture."
+  },
+  {
+    "question": "______ is one of the most common methods used to collect information on various aspects of applicant's academic, social, demographic, work-related background and references for interview in selection process.",
+    "options": ["Job description", "Job specification", "Job analysis", "Application blank"],
+    "correctAnswer": 3,
+    "explanation": "An application blank gathers comprehensive personal and professional information from applicants."
+  },
+  {
+    "question": "HR role is not just adapting its activities to the firm's business strategy, nor carrying out fire-fighting operations like compensating employees. The statement represents ______ in this strategic role of HR.",
+    "options": ["Strategic partners", "Regulators", "Mediators", "Change agent"],
+    "correctAnswer": 0,
+    "explanation": "Strategic partners align HR activities with the business strategy to drive long-term goals."
+  },
+  {
+    "question": "A ______ is an assessment of the knowledge, skills, abilities, experience and career aspirations of each of the current employees.",
+    "options": ["Workforce analysis", "Skill inventory", "Staffing table", "Workload analysis"],
+    "correctAnswer": 1,
+    "explanation": "A skill inventory records employee competencies and aspirations for workforce planning."
+  },
+  {
+    "question": "______ validity is the degree to which a specific trait is related to successful job performance (e.g., honesty for bank cashiers).",
+    "options": ["Content", "Criteria-related", "Constructs", "Predictive"],
+    "correctAnswer": 1,
+    "explanation": "Criterion-related validity measures the correlation between a test trait and job performance."
+  },
+  {
+    "question": "The interview is not following a specific format. The interviewer asks broad open-ended questions like 'Tell me more about what you did on your last job'. This type of interview is called ______.",
+    "options": ["Structured interview", "Situational interview", "Behavioral interview", "Non-directive interview"],
+    "correctAnswer": 3,
+    "explanation": "Non-directive interviews are informal and allow candidates to share experiences freely."
+  },
+  {
+    "question": "Some employees leave an organisation due to various reasons leading to resignation, retirement and even termination. These movements are known as ______ mobility.",
+    "options": ["External", "Internal", "Lateral", "Horizontal"],
+    "correctAnswer": 0,
+    "explanation": "External mobility occurs when employees leave the organisation entirely."
+  },
+  {
+    "question": "The Indian Institute of Personnel Management has specified the scope of HRM as a personnel aspect, ______ aspect, and industrial relations aspect.",
+    "options": ["Legal", "Administrative", "Welfare", "Strategic"],
+    "correctAnswer": 2,
+    "explanation": "The welfare aspect focuses on measures for employee well-being within HRM."
+  },
+  {
+    "question": "It helps in measuring the employee's honesty to predict those who are more likely to steal from an employer or otherwise act in a manner unacceptable to the organisation.",
+    "options": ["Intelligence test", "Polygraph test", "Integrity test", "Logical reasoning test"],
+    "correctAnswer": 2,
+    "explanation": "An integrity test is designed to assess honesty and predict counterproductive work behaviour."
+  },
+  {
+    "question": "The technique where it gives the same results when repeatedly used by the same rater to rate the same behaviour or attitudes at different times.",
+    "options": ["Test-Retest Reliability", "Inter Rater Test Reliability", "Intra Rater Reliability", "Inner Rater Reliability"],
+    "correctAnswer": 2,
+    "explanation": "Intra rater reliability measures consistency when the same rater evaluates the same item multiple times."
+  },
+  {
+    "question": "HRM is present in all enterprises and it permeates all levels of management in an organisation represents ______ nature of HRM.",
+    "options": ["Individual oriented", "Pervasive Function", "Action Oriented", "People Oriented"],
+    "correctAnswer": 1,
+    "explanation": "Pervasive function means HRM is applicable to all departments and all levels of the organisation."
+  },
+  {
+    "question": "In ______ phases during the 1960s the scope of personnel functions extended, covering labour welfare, participative management, industrial harmony etc.",
+    "options": ["Early", "Legal", "Welfare", "Development"],
+    "correctAnswer": 3,
+    "explanation": "In the development phase, personnel management expanded to include welfare, participation, and harmony initiatives."
+  },
+  {
+    "question": "______ is the process of searching for prospective employees and stimulating them to apply for jobs in the organisation.",
+    "options": ["Recruitment", "Placement", "Induction", "Selection"],
+    "correctAnswer": 0,
+    "explanation": "Recruitment involves attracting qualified candidates to fill job vacancies."
+  },
+  {
+    "question": "Which among the following is an external source of recruitment?",
+    "options": ["Campus recruitment", "Retrenched/retired employee", "Dependents of present deceased and disabled employees", "Employee referrals"],
+    "correctAnswer": 0,
+    "explanation": "Campus recruitment is an external source as it seeks candidates from educational institutions."
+  },
+  {
+    "question": "Professional and high-tech training institutes develop a pool of HR for possible employment. These institutes are called ______.",
+    "options": ["Body shoppers", "Body shopping", "External Agencies", "Private Consultants"],
+    "correctAnswer": 2,
+    "explanation": "External agencies supply trained personnel to organisations for recruitment."
+  },
+  {
+    "question": "HRM ______ concept deals with welfare measures like safety, first aid, lunch rooms, rest rooms which have a positive impact on workers' productivity.",
+    "options": ["Good-will", "Humanitarian", "Paternalistic/Paternalism", "Commodity"],
+    "correctAnswer": 2,
+    "explanation": "The paternalistic approach views management as having a protective, fatherly role towards employees."
+  },
+  {
+    "question": "The ______ is a technique where a panel of experts is consulted to form a consensus on forecasting methods.",
+    "options": ["Mathematical", "Delphi techniques", "Computer", "Markov analysis"],
+    "correctAnswer": 1,
+    "explanation": "The Delphi technique uses expert consensus to make forecasts."
+  },
+  {
+    "question": "Which is one of the steps of the selection process?",
+    "options": ["Prepared job analysis", "Reference check", "Advertising the vacancy", "Identify vacancy"],
+    "correctAnswer": 1,
+    "explanation": "Reference checks verify candidate information and are part of the selection process."
+  },
+  {
+    "question": "Which of the following is NOT a managerial function of HRM?",
+    "options": ["Planning", "Organizing", "Directing", "Compensation"],
+    "correctAnswer": 3,
+    "explanation": "Compensation is an operative function, not a managerial function of HRM."
+  },
+  {
+    "question": "Which among the following is not the reason for using the external source of recruitment?",
+    "options": ["Latest knowledge, skills, innovative or talent can flow into the organization", "Human resources with different skills, experience, background can be selected", "Candidates are selected without any preconceived idea", "One of the techniques of motivation"],
+    "correctAnswer": 3,
+    "explanation": "Using external sources is not considered a technique of motivation; it is a recruitment strategy."
+  },
+  {
+    "question": "The organization undertakes screening interview to conduct a preliminary screening of applicants to identify obvious misfits. This can also be called as ______.",
+    "options": ["Courtesy Interview", "Stress Interview", "Situational Interview", "Non-directive Interview"],
+    "correctAnswer": 0,
+    "explanation": "Courtesy interviews are preliminary screenings to filter out unsuitable candidates."
+  },
+  {
+    "question": "______ is a selection test which duplicates many of the activities and problems an employee faces while at work.",
+    "options": ["Preference test", "Simulation test", "Interest test", "Projective test"],
+    "correctAnswer": 1,
+    "explanation": "A simulation test replicates job tasks to evaluate performance in realistic scenarios."
+  },
+  {
+    "question": "Human resource management is present in all enterprises and it permeates all levels of management in an organization represents ______ nature of human resource management.",
+    "options": ["Individually oriented", "Action-oriented", "Pervasive Force", "People-oriented"],
+    "correctAnswer": 2,
+    "explanation": "Pervasive force means HRM is applicable to all areas and levels of the organisation."
+  },
+  {
+    "question": "______ is the actual posting of an employee to a specific job.",
+    "options": ["Induction", "Recruitment", "Second placement", "Placement"],
+    "correctAnswer": 3,
+    "explanation": "Placement refers to assigning an employee to a particular position."
+  },
+  {
+    "question": "In ______ concept of human resource management, management assumed a fatherly and protective attitude towards workers.",
+    "options": ["Paternalistic", "Human resource", "Goodwill"],
+    "correctAnswer": 0,
+    "explanation": "Paternalistic HRM treats employees with a protective, caring approach."
+  },
+  {
+    "question": "______ is the extent to which a selection instrument measures what it intends to measure.",
+    "options": ["Reliability", "Validity", "Test-retest reliability", "Graphology test"],
+    "correctAnswer": 1,
+    "explanation": "Validity indicates whether a test measures the intended criteria accurately."
+  },
+  {
+    "question": "Human resource management helps employees to develop their potential fully and encourages them to give their best to the organization. The statement reflects ______ nature of Human resource management.",
+    "options": ["Pervasive force", "Action-oriented", "Individually oriented", "People-oriented"],
+    "correctAnswer": 3,
+    "explanation": "People-oriented HRM focuses on motivating and developing employees."
+  },
+  {
+    "question": "______ is a process through which a new recruit begins to understand and accept the values, norms and beliefs held by others in the organization.",
+    "options": ["Induction", "Follow up", "Organizational issues", "Socialization"],
+    "correctAnswer": 3,
+    "explanation": "Socialization helps newcomers adapt to the organisation’s culture and values."
+  },
+  {
+    "question": "The process of managing skills, talent, and abilities of employees is called:",
+    "options": ["Human resource management", "Personnel management", "Industrial relations", "Training and development"],
+    "correctAnswer": 0,
+    "explanation": "Human resource management focuses on effectively utilising and developing the skills, talent, and abilities of employees."
+  },
+  {
+    "question": "_______ means sharing the decision-making authority to an organization's lower ranks of workers.",
+    "options": ["Training", "Participation", "Collective bargaining", "Development"],
+    "correctAnswer": 1,
+    "explanation": "Participation involves employees in decision-making, fostering a sense of ownership and motivation."
+  },
+  {
+    "question": "Choose the appropriate answer from given alternatives. Statement I: Job analysis is the process of collecting information relating to the operations and responsibilities pertaining to a specific job. Statement II: Selection is the process of searching for prospective employees and stimulating them to apply for jobs in the organization.",
+    "options": [
+      "Statement I is true and II is false",
+      "Statement II is true and I is false",
+      "Both the statements are true",
+      "Both the statements are false"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Both statements are correct: job analysis collects job-related information, and selection involves choosing from recruited candidates."
+  },
+  {
+    "question": "_______ refers to measurement of the cost and value of human resources to an organisation.",
+    "options": ["Human resource research", "Human resource accounting", "Human resource audit", "Human resource information system"],
+    "correctAnswer": 1,
+    "explanation": "Human resource accounting measures the economic value of employees to an organisation."
+  },
+  {
+    "question": "_______ is an attempt to structure work, incorporating the physical, physiological and behavioural aspect of work.",
+    "options": ["Work scheduling", "Job evaluation", "Performance appraisal", "Job design"],
+    "correctAnswer": 3,
+    "explanation": "Job design structures work to improve efficiency and employee satisfaction."
+  },
+  {
+    "question": "_______ aspect of HRM is concerned with manpower planning, recruitment, selection, placement, transfer, remuneration, incentives, etc.",
+    "options": ["Welfare", "Personnel", "Industrial relation", "Job design"],
+    "correctAnswer": 1,
+    "explanation": "The personnel aspect covers all staffing and compensation functions in HRM."
+  },
+  {
+    "question": "The process of ascertaining (examining) qualifications, experience, skill and knowledge of the applicants is called _______.",
+    "options": ["Job Analysis", "Human resource planning", "Recruitment", "Selection"],
+    "correctAnswer": 3,
+    "explanation": "Selection involves evaluating applicants to choose the best fit for the job."
+  },
+  {
+    "question": "When the company tries to calculate the number of persons required for various jobs with reference to a planned output it is known as _______ analysis.",
+    "options": ["Work force analysis", "Work design", "Work plan", "Work load"],
+    "correctAnswer": 3,
+    "explanation": "Workload analysis estimates staff requirements based on planned output."
+  },
+  {
+    "question": "HR's role as a _______ is to replace resistance with resolve, planning with results and fear of change with excitement about its possibilities.",
+    "options": ["Change agent", "Recruiter", "Mediator", "Policy maker"],
+    "correctAnswer": 0,
+    "explanation": "As a change agent, HR helps employees embrace change positively."
+  },
+  {
+    "question": "Which of the following is the main responsibility of the HR manager as an employee champion?",
+    "options": [
+      "To move closer to the heart of employees in their own self-interest",
+      "To recruit employees with required skills",
+      "To develop the talent of employees",
+      "To resolve disputes between employees and management"
+    ],
+    "correctAnswer": 0,
+    "explanation": "As an employee champion, HR represents employees' interests and supports their needs."
+  },
+  {
+    "question": "Considering the factors affecting recruitment, which one of the given alternatives is not a part of external factors?",
+    "options": ["Labour market conditions", "Supply & Demand factors", "The employment rate", "Cost of recruitment"],
+    "correctAnswer": 3,
+    "explanation": "Cost of recruitment is an internal factor influenced by organisational budget constraints, not an external factor."
+  },
+  {
+    "question": "Organisations advertise vacancies through the world wide web - the internet called as:",
+    "options": ["Walk in", "E-recruitment", "Consult-in", "Business alliance"],
+    "correctAnswer": 1,
+    "explanation": "E-recruitment uses the internet to post jobs and attract candidates."
+  },
+  {
+    "question": "Choose the appropriate answer from given alternatives. Statement I: Recruitment of retrenched/retired employees is an external source of recruitment. Statement II: Recruitment through the campus of an educational institute is internal source of recruitment.",
+    "options": [
+      "Statement I is true and II is false",
+      "Statement II is true and I is false",
+      "Both the statements are true",
+      "Both the statements are false"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Statement I is true because retrenched/retired employees are external hires, while campus recruitment is also an external source, making statement II false."
+  },
+  {
+    "question": "Which of the following is NOT a responsibility of the HR manager as a change agent?",
+    "options": [
+      "To explain the employees that why change is necessary",
+      "To minimize the resistance of employees to change",
+      "To remove the fear of change among the employees",
+      "To recruit employees with the skills necessary for the change"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Recruiting employees is not a core change agent function; change agents focus on communication and reducing resistance."
+  },
+  {
+    "question": "\"Know Devils Are Better Than Unknown Angels\" this phrase suggests _______.",
+    "options": ["External source is best", "Internal source is best", "Unknown are the best employees", "Don't trust employees"],
+    "correctAnswer": 1,
+    "explanation": "The phrase implies it's better to promote or select known internal candidates rather than unknown external hires."
+  },
+  {
+    "question": "_______ the test gives the same result when administered repeatedly to the same person.",
+    "options": ["Inter rater test reliability", "Test-retest reliability", "Intra rater reliability", "Inner rater reliability"],
+    "correctAnswer": 1,
+    "explanation": "Test-retest reliability measures the consistency of test results over time."
+  },
+  {
+    "question": "The basic idea behind the use of _______ tests is that people are most likely to be successful in jobs they like.",
+    "options": ["Projective", "Achievement", "Interest", "Assessment centre"],
+    "correctAnswer": 2,
+    "explanation": "Interest tests measure preferences to align job roles with what candidates enjoy doing."
+  },
+  {
+    "question": "Organizations formally determine the value of jobs through the process of _______.",
+    "options": ["Compensation administration", "Performance appraisal", "Motivation", "Job evaluation"],
+    "correctAnswer": 3,
+    "explanation": "Job evaluation systematically determines the relative worth of jobs in an organisation."
+  },
+  {
+    "question": "_______ is the process of determining and assuring that the organization will have an adequate number of qualified persons, available at proper times, performing jobs which would meet their needs.",
+    "options": ["Human resource planning", "Internal mobility", "Placement", "Human resource development"],
+    "correctAnswer": 0,
+    "explanation": "Human resource planning ensures the right number of people with the right skills are available when needed."
+  }
+],
+  "Micro Economics": [
+    {
+      "question": "Which of the following statement is incorrect?",
+      "options": [
+        "Consumer's surplus is the excess of her expenditure on a good over the total utility enjoyed by her",
+        "Consumer's surplus reduce with increase in the price of the good.",
+        "Consumer's surplus occurs when the price expected by the consumer is higher than the actual price of the good",
+        "Consumer's surplus is measured at the point of consumer's equilibrium"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The correct definition of consumer's surplus is the excess of total utility over the total expenditure on a good, not the other way around."
+    },
+    {
+      "question": "Which of the following is not related to Marshallian utility analysis?",
+      "options": [
+        "Law of Diminishing Managerial utility analysis",
+        "It is based on indifferent of consumer to different combination of good.",
+        "It assumes constant marginal utility of money",
+        "Law of Equi-marginal utility"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marshallian analysis focuses on diminishing marginal utility, equi-marginal principle, and constant MU of money, but not 'Law of Diminishing Managerial utility analysis'."
+    },
+    {
+      "question": "Which of the following is not a property of indifference curves?",
+      "options": [
+        "ICs have a negative slope",
+        "ICs are tangent to each other",
+        "ICs cannot cut each other",
+        "Lower ICs represent lower level of satisfaction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Indifference curves never tangent to each other; they may be tangent to the budget line but cannot touch each other."
+    },
+    {
+      "question": "Which of these statements is related to the Law of variable proportions?",
+      "options": [
+        "Its assumes at least one factor of production to be variable.",
+        "It assumes all factor of production to be variable",
+        "It explain short run input output relationship",
+        "It applies only if factor proportion can be varied."
+      ],
+      "correctAnswer": 0,
+      "explanation": "The Law of Variable Proportions applies in the short run where at least one factor is fixed and others are variable."
+    },
+    {
+      "question": "Which of these statements is correct?",
+      "options": [
+        "Iso cost line represent ratio of product prices",
+        "Iso cost line is convex to the origin",
+        "Iso cost line has a positive slope",
+        "Iso cost line has a negative slope"
+      ],
+      "correctAnswer": 3,
+      "explanation": "An iso-cost line shows all possible combinations of inputs at a given cost; it slopes negatively due to the trade-off between factors."
+    },
+    {
+      "question": "__________ represents the technical relationship between inputs and output.",
+      "options": [
+        "Iso cost",
+        "Isoquant",
+        "Marginal rate of technical substitution",
+        "Production Function"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A production function explains the maximum output achievable from given quantities of inputs."
+    },
+    {
+      "question": "Identify the external economy of scale enjoyed by a firm",
+      "options": [
+        "Managerial economies",
+        "Marketing Economies",
+        "Economies of risk spreading and diversification",
+        "Economies of Localization"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Economies of localization arise when firms in the same industry cluster together, reducing costs due to shared infrastructure."
+    },
+    {
+      "question": "Which of these statements is incorrect?",
+      "options": [
+        "Individually of factors of production is an important reason behind the operation of the law of variable proportion",
+        "A producer is said to be in equilibrium when he maximizes output at the least cost",
+        "A producer is said to be in equilibrium when he maximizes profit at the least cost",
+        "Diseconomies of scale cause decreasing returns as a firm expand."
+      ],
+      "correctAnswer": 1,
+      "explanation": "Producer equilibrium is achieved when profit is maximized, not merely output at least cost."
+    },
+    {
+      "question": "Which of the following is not an aspect of consumer's rationality?",
+      "options": [
+        "Consumer has incomplete knowledge about the market",
+        "Consumer is clear about his objective",
+        "Consumer is aware about product price and quality",
+        "Consumer's behavior is consistent"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Rationality assumes complete market knowledge; incomplete knowledge violates this assumption."
+    },
+    {
+      "question": "Which of these is an incorrect condition for consumer's equilibrium under marginal utility analysis?",
+      "options": [
+        "MU > P",
+        "MU = P",
+        "MI = P = 0",
+        "MUx/Px = MUy/Py = Mum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "At equilibrium, marginal utility equals price (MU = P); if MU > P, the consumer can gain more satisfaction by buying more."
+    },
+    {
+      "question": "In case of a single commodity, consumer reaches equilibrium when ______.",
+      "options": [
+        "MU=P",
+        "TU=MU",
+        "MU > P",
+        "YU > P"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For a single commodity, equilibrium is achieved when marginal utility equals the price (MU = P)."
+    },
+    {
+      "question": "Which of the following is not a limitation of the law of equi Marginal Utility?",
+      "options": [
+        "Limited resources",
+        "Inefficient organization",
+        "Ignorance of consumer",
+        "Frequent changes in prices"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Inefficient organization is not considered a limitation in the law of equi-marginal utility; it primarily deals with resource allocation and knowledge constraints."
+    },
+    {
+      "question": "Production function means __________.",
+      "options": [
+        "Relation between factor amount and output",
+        "Relation between factor amount and marginal cost",
+        "Relation between production and price",
+        "Relation between production and sales revenue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Production function expresses the relationship between the quantities of factors used and the resulting output."
+    },
+    {
+      "question": "Identify the true statement from the following:",
+      "options": [
+        "MP is the rate of change in TP.",
+        "TP is the rate of change in MP",
+        "AP is the rate of change in TP",
+        "AP is the rate of change in MP"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Marginal Product (MP) measures the change in Total Product (TP) due to a one-unit change in input."
+    },
+    {
+      "question": "Which of the following is an assumption of the law of Diminishing Marginal utility?",
+      "options": [
+        "Continuous Consumption",
+        "Constant demand",
+        "Original approach to utility",
+        "Perfect compensation"
+      ],
+      "correctAnswer": 0,
+      "explanation": "One assumption is continuous consumption without breaks to ensure the law of diminishing marginal utility holds."
+    },
+    {
+      "question": "The Law of Diminishing returns is a __________.",
+      "options": [
+        "Short run Phenomenon",
+        "Long run phenomenon",
+        "Phenomenon wherein two inputs are variable",
+        "Phenomenon wherein all inputs are variable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The law applies to the short run, where at least one input remains fixed."
+    },
+    {
+      "question": "Consumer equilibrium refers to __________.",
+      "options": [
+        "Maximization of satisfaction",
+        "Increase in consumer income",
+        "Maximization of profits",
+        "Increase in demand for goods and services"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consumer equilibrium is the state where a consumer gets maximum satisfaction from their income."
+    },
+    {
+      "question": "The Expansion path shows:",
+      "options": [
+        "How cost minimizing input choices change with change in firms output level",
+        "How cost minimizing input price changes with change in firms output level",
+        "How input prices change with change in firms output level",
+        "How managerial products change with change in firms output level"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The expansion path depicts changes in optimal input combinations as output changes, keeping prices constant."
+    },
+    {
+      "question": "An iso quant that is farther from the origin represent __________.",
+      "options": [
+        "Greater output",
+        "Lesser output",
+        "Same output as others",
+        "More profit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Isoquants farther from the origin indicate higher levels of output."
+    },
+    {
+      "question": "Suppose that when a firm increase its usage of inputs by 100%, the output increase by less than 100%, in this case, the firm's production function exhibits:",
+      "options": [
+        "Decreasing return to scale",
+        "Diminishing marginal returns",
+        "Decreasing marginal rate of technical substitution",
+        "Decreasing marginal profits"
+      ],
+      "correctAnswer": 0,
+      "explanation": "If output increases by less than the proportional increase in inputs, it shows decreasing returns to scale."
+    },
+    {
+      "question": "According to economic analysis, the consumer is expected to behave __________.",
+      "options": [
+        "Rationally",
+        "Carefully",
+        "Differently",
+        "Indifferently"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Economic theory assumes consumers act rationally to maximize satisfaction given their constraints."
+    },
+    {
+      "question": "When a commodity is destroyed by fire, the type of consumption is __________.",
+      "options": [
+        "Useful",
+        "Wasteful",
+        "Direct",
+        "Indirect"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Destruction without deriving utility is considered wasteful consumption."
+    },
+    {
+      "question": "What is the position of budget line with respect to indifference curve?",
+      "options": [
+        "Below",
+        "Above",
+        "Tangent",
+        "Intersecting"
+      ],
+      "correctAnswer": 2,
+      "explanation": "At equilibrium, the budget line is tangent to the indifference curve."
+    },
+    {
+      "question": "Consumption of additional chocolates after reaching saturation point leads to",
+      "options": [
+        "Fall in total utility and increase in marginal utility",
+        "Increase in total utility and marginal utility",
+        "Fall in total utility and negative marginal utility",
+        "Fall in marginal utility and negative total utility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Beyond the saturation point, consuming more causes total utility to fall and marginal utility to become negative."
+    },
+    {
+      "question": "Which of the following has the highest consumer surplus?",
+      "options": [
+        "Necessaries",
+        "Comforts",
+        "Luxury goods",
+        "Semi luxury goods"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Necessaries often generate high consumer surplus as consumers are willing to pay much more than the actual price."
+    },
+    {
+      "question": "In the production function, at any given time, the output from a given set of inputs is __________.",
+      "options": [
+        "Always fixed",
+        "Always variable",
+        "Semi-fixed",
+        "Semi-variable"
+      ],
+      "correctAnswer": 0,
+      "explanation": "For a given technology and inputs, the output is fixed at that point in time."
+    },
+    {
+      "question": "Which of the following refers to 'return enjoyed by the firm' as a result of change in all the inputs?",
+      "options": [
+        "Increasing returns to scale",
+        "Decreasing returns to scale",
+        "Returns to scale",
+        "Returns to business"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Returns to scale measure the change in output when all inputs are changed proportionally."
+    },
+    {
+      "question": "The difference between short run and long run is that",
+      "options": [
+        "In short run, all input are fixed whereas in long run, all inputs are variable",
+        "In short run, all inputs are variable whereas in long run, the same is not possible.",
+        "In short run at least one input is fixed whereas in long run, all inputs are variable",
+        "In long run, the firm is forced to use its fixed efficiency"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In the short run, some inputs are fixed, while in the long run all inputs can be varied."
+    },
+    {
+      "question": "Marginal Utility means",
+      "options": [
+        "Utility derived from the managerial unit consumed",
+        "TUn - TUn-1",
+        "Δ TU / Δ Q",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Marginal utility can be expressed in all these equivalent forms, hence all are correct."
+    },
+    {
+      "question": "The capacity of a consumer to buy goods can be expressed by the",
+      "options": [
+        "Prices of the goods",
+        "Indifference curve",
+        "Budget line",
+        "Income"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A consumer's purchasing capacity is determined by their income."
+    },
+    {
+      "question": "Identify the assumption which indicates that the consumer prefers the combination of good that has more units of the two goods rather than less.",
+      "options": [
+        "Transitivity assumption",
+        "Consistency assumption",
+        "Non-satiety assumption",
+        "Assumption of ordinal utility"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The non-satiety assumption states that more of both goods is preferred to less, assuming other things remain the same."
+    },
+    {
+      "question": "From the given table calculated consumer surplus: Unit: 1 2 3 4 5 6 7 | Price-X: 5 5 5 5 5 5 5 | Mux: 20 14 9 5 3 1 0",
+      "options": [
+        "28",
+        "48",
+        "17",
+        "20"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Consumer surplus = Total utility (sum of MU) - Total expenditure. TU = 52, Expenditure = 5 × 7 = 35, so CS = 48."
+    },
+    {
+      "question": "Which are the reason responsible for increasing returns to scale?",
+      "options": [
+        "Underutilization of fixed factor",
+        "Individually of factor",
+        "Specialization and division of Labour",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All the mentioned factors contribute to increasing returns to scale in production."
+    },
+    {
+      "question": "When a firm moves from one point on an iso-quant to another. Which of the following will not happen?",
+      "options": [
+        "A change in the ratio in which the inputs are combined",
+        "A change in the marginal product of the input",
+        "A change in the rate of technical substitution",
+        "A change in the level of output"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Moving along an isoquant keeps output constant, so the level of output does not change."
+    },
+    {
+      "question": "When the two inputs are perfect complements, the MRTS between two inputs will be",
+      "options": [
+        "One",
+        "Zero",
+        "Infinity",
+        "Increasing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For perfect complements, inputs are used in fixed proportions, so MRTS is zero."
+    },
+    {
+      "question": "Which of is not an assumption of the law of variable proportion?",
+      "options": [
+        "State of technology remains constant",
+        "Some factor inputs are fixed",
+        "Long Run",
+        "Homogeneity of factor units"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The law applies only in the short run; 'long run' is not an assumption."
+    },
+    {
+      "question": "__________ is the locus of points of tangency between successive isoquants and iso cost lines",
+      "options": [
+        "Expansion path",
+        "Production indifference curve",
+        "Price line",
+        "Both A & B"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The expansion path connects points of tangency between isoquants and iso-cost lines."
+    },
+    {
+      "question": "Production function shows the relation between",
+      "options": [
+        "Factor inputs and output",
+        "Factor inputs and cost",
+        "Production and price",
+        "Production and sales revenue"
+      ],
+      "correctAnswer": 0,
+      "explanation": "It relates physical inputs to physical output."
+    },
+    {
+      "question": "Which of the following is correct in the case of law of variable proportion?",
+      "options": [
+        "All factor are variable",
+        "All factor are fixed",
+        "All factor are used in fixed proportion",
+        "At least one factor is fixed"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The law assumes that at least one factor is fixed while others are variable."
+    },
+    {
+      "question": "The slope of iso-cost line shows",
+      "options": [
+        "Funds available to the firm",
+        "Equal quantity output",
+        "Ratio of the factor price",
+        "Ratio of product prices"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The slope of the iso-cost line is determined by the ratio of input prices."
+    },
+    {
+      "question": "Under the law of variable proportion, stage 1 is called",
+      "options": [
+        "Stage of Diminishing returns",
+        "Stage of negative returns",
+        "Stage of constant returns",
+        "Stage of increasing return"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Stage 1 of the law of variable proportion is known as the stage of increasing returns."
+    },
+    {
+      "question": "Consumer's surplus is equal to",
+      "options": [
+        "Total utility - Total expenditure",
+        "Total utility + total expenditure",
+        "Total utility x Total expenditure",
+        "Total utility / Total expenditure"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consumer's surplus is calculated as total utility minus total expenditure."
+    },
+    {
+      "question": "Which one of the following is not a property of indifference curve?",
+      "options": [
+        "Indifference curve are downward sloping from right to left",
+        "Indifference curves can never intersect each other",
+        "Indifference curves are convex to the origin",
+        "Higher the indifference curves higher the level of satisfaction"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Indifference curves slope downward from left to right, not from right to left."
+    },
+    {
+      "question": "The cardinal approach to utility assumes marginal utility of money to be",
+      "options": [
+        "Zero",
+        "Constant",
+        "Negative",
+        "Increasing"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cardinal utility analysis assumes that the marginal utility of money remains constant."
+    },
+    {
+      "question": "The slope of indifference curve indicates",
+      "options": [
+        "Price ratio of two commodities",
+        "Marginal rate of substitution between the two commodities",
+        "Factor substitution",
+        "Level of income"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The slope of the indifference curve is the marginal rate of substitution between two goods."
+    },
+    {
+      "question": "MRTSLK is the slope of",
+      "options": [
+        "Demand curve",
+        "Iso-cost Line",
+        "Indifference curves",
+        "Iso-quant"
+      ],
+      "correctAnswer": 3,
+      "explanation": "MRTSLK (Marginal Rate of Technical Substitution of Labour for Capital) is the slope of an isoquant."
+    },
+    {
+      "question": "Under decreasing returns to scale, in order to double the level of output, the factor input would have to be",
+      "options": [
+        "Less than doubled",
+        "Doubled",
+        "More than doubled",
+        "Equal to target output"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In decreasing returns to scale, a more than proportionate increase in inputs is required to double output."
+    },
+    {
+      "question": "Which of the following is / are economies of scale",
+      "options": [
+        "Bulk purchase of raw material",
+        "Better technology",
+        "Vertical integration",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All these are examples of economies of scale that reduce per-unit costs as output increases."
+    },
+    {
+      "question": "In which stage of short-run input-output relation would a rational producer operate?",
+      "options": [
+        "Stage-1",
+        "Stage-2",
+        "Stage-3",
+        "Stage-4"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A rational producer operates in Stage 2, where both marginal and average product are positive but diminishing."
+    },
+    {
+      "question": "Identify where exactly would rational producer operate?",
+      "options": [
+        "At the peak point of total product curve",
+        "At the peak point of marginal product curve",
+        "At the end of second stage if the variable factor is free of cost",
+        "At the start of second stage if the variable factors is free of cost"
+      ],
+      "correctAnswer": 2,
+      "explanation": "If the variable factor is free, the rational producer would operate till the end of Stage 2 for maximum output."
+    },
+    {
+      "question": "Optimum combination of fixed and variable factors is indicated by",
+      "options": [
+        "Peak point of total product curve",
+        "Peak point of average product curve",
+        "Peak point of marginal product curve",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All these points can indicate optimum combination, depending on the specific measure being considered."
+    },
+    {
+      "question": "Consumption is a",
+      "options": [
+        "Wealth acquiring activity",
+        "Wealth saving activity",
+        "Wealth using activity",
+        "Both B and C"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consumption uses wealth to satisfy wants; it is not about acquiring or saving wealth."
+    },
+    {
+      "question": "In which of the following conditions does the law of diminishing marginal utility work?",
+      "options": [
+        "When units are un-identical",
+        "Taste and preference keep changing",
+        "Time log in consumption",
+        "Continuous consumption"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The law requires continuous consumption of identical units without time gaps for its validity."
+    },
+    {
+      "question": "A downward sloping MU curve demonstrates",
+      "options": [
+        "The principle of constant marginal utility",
+        "Dissatisfaction of the consumer",
+        "The principle of equi- marginal utility",
+        "Decreasing intensity of desire for the product"
+      ],
+      "correctAnswer": 3,
+      "explanation": "A downward slope of marginal utility curve shows decreasing intensity of desire with each additional unit consumed."
+    },
+    {
+      "question": "Cardinal utility approach to the consumer behavior analysis has been developed by",
+      "options": [
+        "Adam smith",
+        "Alfred Marshall",
+        "H.R. Hicks",
+        "J.B. Say"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alfred Marshall developed the cardinal utility approach to measure utility in numerical terms."
+    },
+    {
+      "question": "Which of the following is correct?",
+      "options": [
+        "If MU > 0, TU will increase",
+        "If MU < 0, TU will decrease",
+        "If MU = 0, TU will be zero",
+        "If MU < 0, TU will be negative"
+      ],
+      "correctAnswer": 0,
+      "explanation": "When marginal utility is positive, total utility increases with consumption."
+    },
+    {
+      "question": "Consumer surplus is the area:",
+      "options": [
+        "Below the demand curve but above the market price",
+        "Above the demand curve",
+        "Below the demand curve",
+        "Below the demand curve but below the market price"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Consumer surplus is the area between the demand curve and the market price line, above the price and below the demand curve."
+    },
+    {
+      "question": "Which of these is an incorrect condition for consumer's equilibrium under marginal utility analysis?",
+      "options": [
+        "MU > P",
+        "MU = P",
+        "MU = P = 0",
+        "MUx/Px = MUy/Py = Mum"
+      ],
+      "correctAnswer": 0,
+      "explanation": "MU > P means the consumer can still gain more satisfaction by consuming more; equilibrium occurs when MU = P."
+    }
+  ]
+}
